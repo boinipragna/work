@@ -1,0 +1,59 @@
+h1 {
+    background-color: aquamarine;
+}
+
+form {
+    color: blue;
+
+}
+
+#explain {
+    color: blueviolet;
+    background: #00ff6a;
+}
+
+.form {
+    color: palevioletred;
+}
+
+.red {
+    background: red;
+    color: white;
+}
+
+.blue {
+    background-color: #00ff6a;
+    color: blueviolet;
+}
+
+p {
+    background-image: url(image.jpeg);
+    background-repeat: no-repeat;
+}
+
+.container {
+    height: 334px;
+    width: 344px;
+    background-position-x: right;
+    border: #00ff6a;
+    background-image: url(https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+    background-position:bottom;
+
+}
+
+* {
+    margin: 100;
+    padding: 15;
+}
+
+body {
+    /* height: 1030;
+    /* width: 120; */
+    /* background-image: url(https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg);
+    background-repeat: repeat; */
+    background-size: cover; 
+   
+}
